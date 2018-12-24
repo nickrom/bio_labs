@@ -1,0 +1,51 @@
+1 |P07327|ADH1A_HUMAN Alcohol dehydrogenase 1A OS=Homo sapiens OX=9606 GN=ADH1A PE=1 SV=2 1957
+2 |Q5RBP7|ADH1A_PONAB Alcohol dehydrogenase 1A OS=Pongo abelii OX=9601 GN=ADH1A PE=2 SV=3 1917
+3 |P28469|ADH1A_MACMU Alcohol dehydrogenase 1A OS=Macaca mulatta OX=9544 GN=ADH1A PE=2 SV=2 1860
+4 |P00325|ADH1B_HUMAN Alcohol dehydrogenase 1B OS=Homo sapiens OX=9606 GN=ADH1B PE=1 SV=2 1850
+5 |Q5R1W2|ADH1B_PANTR Alcohol dehydrogenase 1B OS=Pan troglodytes OX=9598 GN=ADH1B PE=2 SV=3 1846
+6 |P00326|ADH1G_HUMAN Alcohol dehydrogenase 1C OS=Homo sapiens OX=9606 GN=ADH1C PE=1 SV=2 1833
+7 |O97959|ADH1G_PAPHA Alcohol dehydrogenase 1C OS=Papio hamadryas OX=9557 GN=ADH1C PE=2 SV=3 1831
+8 |P14139|ADH1B_PAPHA Alcohol dehydrogenase 1B OS=Papio hamadryas OX=9557 GN=ADH1B PE=2 SV=2 1823
+9 |P00327|ADH1E_HORSE Alcohol dehydrogenase E chain OS=Equus caballus OX=9796 PE=1 SV=2 1727
+10 |P00328|ADH1S_HORSE Alcohol dehydrogenase S chain OS=Equus caballus OX=9796 PE=1 SV=3 1717
+11 |Q03505|ADH1_RABIT Alcohol dehydrogenase 1 OS=Oryctolagus cuniculus OX=9986 GN=ADH1 PE=1 SV=2 1699
+12 |P00329|ADH1_MOUSE Alcohol dehydrogenase 1 OS=Mus musculus OX=10090 GN=Adh1 PE=1 SV=2 1662
+13 |P41680|ADH1_PERMA Alcohol dehydrogenase 1 OS=Peromyscus maniculatus OX=10042 GN=ADH1 PE=2 SV=2 1629
+14 |P06757|ADH1_RAT Alcohol dehydrogenase 1 OS=Rattus norvegicus OX=10116 GN=Adh1 PE=1 SV=3 1629
+15 |P86885|ADH1_MESAU Alcohol dehydrogenase 1 OS=Mesocricetus auratus OX=10036 GN=ADH1 PE=1 SV=1 1621
+16 |Q64413|ADH1_GEOBU Alcohol dehydrogenase 1 OS=Geomys bursarius OX=27682 GN=ADH1 PE=2 SV=3 1560
+17 |Q64415|ADH1_GEOKN Alcohol dehydrogenase 1 OS=Geomys knoxjonesi OX=27683 GN=ADH1 PE=2 SV=3 1556
+18 |Q9Z2M2|ADH1_GEOAT Alcohol dehydrogenase 1 OS=Geomys attwateri OX=72447 GN=ADH1 PE=2 SV=3 1544
+19 |P80222|ADH1_ALLMI Alcohol dehydrogenase 1 OS=Alligator mississippiensis OX=8496 PE=1 SV=1 1523
+20 |P80338|ADH1_STRCA Alcohol dehydrogenase 1 OS=Struthio camelus OX=8801 GN=ADH1 PE=1 SV=1 1494
+21 |P19631|ADH1_COTJA Alcohol dehydrogenase 1 OS=Coturnix japonica OX=93934 GN=ADH1 PE=1 SV=1 1484
+22 |P23991|ADH1_CHICK Alcohol dehydrogenase 1 OS=Gallus gallus OX=9031 GN=ADH1 PE=1 SV=2 1481
+23 |P49645|ADH1_APTAU Alcohol dehydrogenase 1 OS=Apteryx australis OX=8822 GN=ADH1 PE=1 SV=2 1479
+24 |P80512|ADH1_NAJNA Alcohol dehydrogenase 1 OS=Naja naja OX=35670 PE=1 SV=1 1478
+25 |P25405|ADH1A_SAAHA Alcohol dehydrogenase 1A OS=Saara hardwickii OX=40250 PE=1 SV=2 1462
+26 |P25406|ADH1B_SAAHA Alcohol dehydrogenase 1B OS=Saara hardwickii OX=40250 PE=1 SV=2 1459
+27 |P40394|ADH7_HUMAN Alcohol dehydrogenase class 4 mu/sigma chain OS=Homo sapiens OX=9606 GN=ADH7 PE=1 SV=2 1424
+28 |P41682|ADH7_RAT Alcohol dehydrogenase class 4 mu/sigma chain OS=Rattus norvegicus OX=10116 GN=Adh7 PE=1 SV=2 1402
+29 |Q64437|ADH7_MOUSE Alcohol dehydrogenase class 4 mu/sigma chain OS=Mus musculus OX=10090 GN=Adh7 PE=2 SV=2 1398
+30 |P86883|ADH1_COLLI Alcohol dehydrogenase 1 OS=Columba livia OX=8932 GN=ADH1 PE=1 SV=1 1381
+31 |P22797|ADH1_PELPE Alcohol dehydrogenase 1 OS=Pelophylax perezi OX=8403 PE=1 SV=1 1373
+32 |P80467|ADHX_SAAHA Alcohol dehydrogenase class-3 OS=Saara hardwickii OX=40250 PE=1 SV=1 1311
+33 |P86884|ADHX_SCYCA Alcohol dehydrogenase class-3 OS=Scyliorhinus canicula OX=7830 PE=1 SV=1 1308
+34 |Q3ZC42|ADHX_BOVIN Alcohol dehydrogenase class-3 OS=Bos taurus OX=9913 GN=ADH5 PE=2 SV=1 1307
+35 |O19053|ADHX_RABIT Alcohol dehydrogenase class-3 OS=Oryctolagus cuniculus OX=9986 GN=ADH5 PE=2 SV=3 1307
+36 |P19854|ADHX_HORSE Alcohol dehydrogenase class-3 OS=Equus caballus OX=9796 GN=ADH5 PE=1 SV=2 1302
+37 |P79896|ADHX_SPAAU Alcohol dehydrogenase class-3 OS=Sparus aurata OX=8175 PE=2 SV=1 1298
+38 |P80468|ADH4_STRCA Alcohol dehydrogenase 4 OS=Struthio camelus OX=8801 GN=ADH4 PE=1 SV=1 1291
+39 |P12711|ADHX_RAT Alcohol dehydrogenase class-3 OS=Rattus norvegicus OX=10116 GN=Adh5 PE=1 SV=2 1291
+40 |P11766|ADHX_HUMAN Alcohol dehydrogenase class-3 OS=Homo sapiens OX=9606 GN=ADH5 PE=1 SV=4 1291
+41 |P28474|ADHX_MOUSE Alcohol dehydrogenase class-3 OS=Mus musculus OX=10090 GN=Adh5 PE=1 SV=3 1275
+42 |Q5R7Z8|ADH6_PONAB Alcohol dehydrogenase 6 OS=Pongo abelii OX=9601 GN=ADH6 PE=2 SV=1 1273
+43 |P81600|ADHH_GADMO Alcohol dehydrogenase class-3 chain H OS=Gadus morhua OX=8049 PE=1 SV=1 1271
+44 |P28332|ADH6_HUMAN Alcohol dehydrogenase 6 OS=Homo sapiens OX=9606 GN=ADH6 PE=1 SV=3 1264
+45 |P08319|ADH4_HUMAN Alcohol dehydrogenase 4 OS=Homo sapiens OX=9606 GN=ADH4 PE=1 SV=5 1239
+46 |P81601|ADHL_GADMO Alcohol dehydrogenase class-3 chain L OS=Gadus morhua OX=8049 PE=1 SV=1 1226
+47 |P80360|ADHX_MYXGL Alcohol dehydrogenase class-3 OS=Myxine glutinosa OX=7769 PE=1 SV=1 1211
+48 |Q5XI95|ADH6_RAT Alcohol dehydrogenase 6 OS=Rattus norvegicus OX=10116 GN=Adh6 PE=2 SV=1 1187
+49 |P41681|ADH6_PERMA Alcohol dehydrogenase 6 OS=Peromyscus maniculatus OX=10042 GN=ADH6 PE=2 SV=1 1180
+50 |P81431|ADHX_OCTVU Alcohol dehydrogenase class-3 OS=Octopus vulgaris OX=6645 PE=1 SV=1 1173
+51 |P30350|ADH1_ANAPL Alcohol dehydrogenase 1 (Fragment) OS=Anas platyrhynchos OX=8839 GN=ADH1 PE=2 SV=1 715
